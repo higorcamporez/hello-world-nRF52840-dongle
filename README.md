@@ -1,2 +1,2 @@
 # hello-world-nRF52840-dongle
-Hello World example for nRF52840
+Hello World using printk() for nRF52840
